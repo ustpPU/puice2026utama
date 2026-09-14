@@ -66,8 +66,8 @@ export const venues = [
 
 export const galleryPlaceholders = [
   { id: 'GA-001', title: 'Galeri Pra-Acara PUICE 2026', category: '19 Ogos · CI3M & PUICE: Inovasi Guru', image: '/media/pre-event-feature.webp', albumUrl: 'https://photos.app.goo.gl/XBYjoFezpjdV4mSb8' },
-  { id: 'GA-002', title: 'Galeri Kemuncak PUICE 2026', category: 'Kemuncak · 10 September', image: '/media/2026/kemuncak-hero-1.jpg', albumUrl: '' },
-  { id: 'GA-003', title: 'Pertandingan, Pentas & Reruai', category: 'Kemuncak · Dokumentasi', image: '/media/2026/kemuncak-hero-2.jpg', albumUrl: '' },
+  { id: 'GA-002', title: 'Pembentangan Kajian Tindakan', category: 'Kemuncak · 10 September 2026', image: '/media/2026/kemuncak-hero-1.jpg', albumUrl: 'https://photos.app.goo.gl/JhU8UFyE4KhYFeED8' },
+  { id: 'GA-003', title: 'Pertandingan PUICE 2026', category: 'Kemuncak · Pertandingan Lain', image: '/media/2026/kemuncak-hero-2.jpg', albumUrl: 'https://photos.app.goo.gl/aHQV7GRFdB9XaytB7' },
   { id: 'GA-004', title: 'Pemenang & Pengiktirafan', category: 'Kemuncak · Anugerah', image: '/media/2026/kemuncak-hero-3.jpg', albumUrl: '' },
   { id: 'GA-005', title: 'Di Sebalik Tabir', category: 'Kemuncak · Urus Setia', image: '/media/2026/kemuncak-hero-4.jpg', albumUrl: '' },
 ];
